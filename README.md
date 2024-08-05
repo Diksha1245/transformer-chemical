@@ -18,8 +18,8 @@ This repository contains a predictive model designed to analyze chemical data an
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chemical-data-prediction.git
-   cd chemical-data-prediction
+   git clone https://github.com/Diksha1245/transformer-chemical.git
+   cd transformer-chemical
    ```
 2. Create a virtual environment and activate it:
    ```bash
